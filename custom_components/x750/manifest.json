@@ -1,8 +1,8 @@
 {
-  "domain": "x750",
-  "name": "X750 Power Sensor",
+  "domain": "x728",
+  "name": "X728 Power Sensor",
   "version": "1.0.1",
-  "documentation": "https://raspberrypiwiki.com/X750",
+  "documentation": "https://raspberrypiwiki.com/X728",
   "dependencies": [],
   "codeowners": ["https://github.com/Beduir"],
   "requirements": [
