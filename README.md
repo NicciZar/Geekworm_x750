@@ -3,7 +3,10 @@ Home Assistant Geekworm x728 Addon based on Home Assistant Geekworm x720 Addon f
 Forked from https://github.com/dincojazz/Geekworm_x750
 
 Сompatibility:
-- X728
+- X728 
+
+Tested with:
+- X728 V2.1 (only Battery Voltage and Capacity functionality)
 
 configuration.yaml:
 
